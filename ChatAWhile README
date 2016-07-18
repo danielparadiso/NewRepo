@@ -3,4 +3,4 @@ If the area code exists in an array, the user is asked to enter the number of mi
 that area code will be. The user will see how much the call will cost. The user can continue entering 
 area codes until they quit.
 
-The working area codes are: 262, 414, 608, 715, 815, 920
+The working area codes are: 262, 414, 608, 715, 815, 920.
