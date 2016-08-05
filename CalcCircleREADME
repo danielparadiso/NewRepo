@@ -1,0 +1,2 @@
+A small program that uses a Circle class to calculate the area and diameter of a circle when given
+a radius. The first two numbers are given, the third class is set in the constructor. No inputs, just run it.
